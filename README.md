@@ -1,6 +1,15 @@
-### Hi there 👋
+### Hey 👋, im Pr3roxDLC
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pr3roxdlc)](https://github.com/anuraghazra/github-readme-stats)
+Bored Java developer hoping to find some new things to learn.
+
+### Projects i am working on currently: 
+**Catalyst: A minecraft utility client for the Anarchy Community**</a> <br />
+[![Join Catalyst's Discord server!](https://invidget.switchblade.xyz/SVhedRNDfw)](https://discord.gg/SVhedRNDfw)
+
+**AntiIllegals: A minecraft server protection plugin**</a> <br />
+https://github.com/zeroBzeroT/AntiIllegals
+
+
 
 
 <!--
