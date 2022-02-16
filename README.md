@@ -1,4 +1,4 @@
-### Hey 👋, im Pr3roxDLC
+### Hey 👋, im Tim
 
 Bored Java developer hoping to find some new things to learn.
 
