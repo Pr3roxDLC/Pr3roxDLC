@@ -6,10 +6,6 @@ Bored Java developer hoping to find some new things to learn.
 **Catalyst: A minecraft utility client for the Anarchy Community**</a> <br />
 [![Join Catalyst's Discord server!](https://invidget.switchblade.xyz/SVhedRNDfw)](https://discord.gg/SVhedRNDfw)
 
-**AntiIllegals: A minecraft server protection plugin**</a> <br />
-[![Check out my plugin!](https://i.ibb.co/d6Ck52V/0b0t.png)](https://github.com/zeroBzeroT/AntiIllegals)
-
-
 
 
 
