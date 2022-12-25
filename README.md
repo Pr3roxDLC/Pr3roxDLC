@@ -2,11 +2,6 @@
 
 Bored Java developer hoping to find some new things to learn.
 
-### Projects i am working on currently: 
-**Catalyst: A minecraft utility client for the Anarchy Community**</a> <br />
-[![Join Catalyst's Discord server!](https://invidget.switchblade.xyz/SVhedRNDfw)](https://discord.gg/SVhedRNDfw)
-
-
 
 
 
